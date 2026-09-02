@@ -1,0 +1,18 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-clean
+-64bit
+-v200x
+-v93
+AES_tb.sv
+-top
+AES_tb
+-access
++rwc
+-exit
+-generic
+somador_tb:HALF_PERIOD_PS=>5000
+-generic
+somador_tb:WAIT_TIME_NS=>5000

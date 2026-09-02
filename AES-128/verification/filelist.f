@@ -1,0 +1,14 @@
+$PROJECT_DIR/verification/AES_if.sv
+$PROJECT_DIR/verification/AES_sequence_item.sv
+$PROJECT_DIR/verification/AES_sequence.sv
+$PROJECT_DIR/verification/AES_coverage.sv
+$PROJECT_DIR/verification/AES_nist_sequence.sv
+$PROJECT_DIR/verification/AES_driver.sv
+$PROJECT_DIR/verification/AES_monitor.sv
+$PROJECT_DIR/verification/aes.c
+$PROJECT_DIR/verification/aes_dpi_bridge.c
+$PROJECT_DIR/verification/AES_scoreboard.sv
+$PROJECT_DIR/verification/AES_agent.sv
+$PROJECT_DIR/verification/AES_env.sv
+$PROJECT_DIR/verification/AES_test.sv
+$PROJECT_DIR/verification/AES_top.sv
