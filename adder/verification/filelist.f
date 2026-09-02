@@ -1,0 +1,10 @@
+$PROJECT_DIR/verification/adder_if.sv
+$PROJECT_DIR/verification/adder_sequence_item.sv
+$PROJECT_DIR/verification/adder_sequence.sv
+$PROJECT_DIR/verification/adder_driver.sv
+$PROJECT_DIR/verification/adder_monitor.sv
+$PROJECT_DIR/verification/adder_scoreboard.sv
+$PROJECT_DIR/verification/adder_agent.sv
+$PROJECT_DIR/verification/adder_env.sv
+$PROJECT_DIR/verification/adder_test.sv
+$PROJECT_DIR/verification/adder_top.sv
