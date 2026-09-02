@@ -1,2 +1,0 @@
-#e1(15Jun2026:13:59:00): source ./xcelium.d/env.d/env.history.15Jun2026_13_59_00
-s1(15Jun2026:13:59:00):  xrun -clean -64bit -v200x -v93 AES_tb.sv -top AES_tb -access +rwc -exit -generic somador_tb:HALF_PERIOD_PS=>5000 -generic somador_tb:WAIT_TIME_NS=>5000 

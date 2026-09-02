@@ -1,1 +1,0 @@
-s1(02Jun2026:16:05:45):  xrun -clean -64bit -v200x -v93 -uvm -sv /home/clement/projets/adder/frontend/adder.sv -f /home/clement/projets/adder/verification/filelist.f -top adder_top -access +rwc -exit -coverage all -covoverwrite -covtest test -covworkdir cov_work -uvmhome CDNS-1.2 
