@@ -2,7 +2,7 @@
 
 This repository gathers all the work carried out during a 2nd-year
 internship at the **GMICRO** (Microelectronics Group) laboratory of the
-**Federal University of Santa Maria (UFSM)**, in Brazil, supervised by
+**University Federal of Santa Maria (UFSM)**, in Brazil, supervised by
 Mateus Beck Rutzig and accompanied on a daily basis by Vinicius Rocca.
 
 The internship focused on the **functional verification** of digital
