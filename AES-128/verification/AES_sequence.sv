@@ -138,7 +138,7 @@ class AES_rand_sequence extends uvm_sequence #(AES_sequence_item);
                 foreach (key_corners[k]) begin
                     foreach (pt_corners[p]) begin
  
-                        // 1. Charger la cle coin
+                        // 1. Charger la cle 
                         item = AES_sequence_item::type_id::create("item");
                         start_item(item);
                         item.set_key_i = 1'b1;
@@ -150,7 +150,7 @@ class AES_rand_sequence extends uvm_sequence #(AES_sequence_item);
                         item.fault_injection_i = 2'b10;
                         finish_item(item);
  
-                        // 2. Chiffrement avec la faute ciblee et le plaintext coin
+                        // 2. Chiffrement avec la faute ciblee et le plaintext 
                         item = AES_sequence_item::type_id::create("item");
                         start_item(item);
                         item.set_key_i = 1'b0;
