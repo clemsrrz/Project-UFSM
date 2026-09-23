@@ -7,7 +7,6 @@ class adder_env extends uvm_env;
 
     virtual function void build_phase(uvm_phase phase);
         super.build_phase(phase);
-        //To call the functions of base class (adder_env), use super keyword super
         agent = adder_agent::type_id::create("agent", this);
         scoreboard = adder_scoreboard::type_id::create("scoreboard", this);
     endfunction
