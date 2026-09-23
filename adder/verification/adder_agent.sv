@@ -1,4 +1,3 @@
-// --- AGENT ---
 class adder_agent extends uvm_agent;
     `uvm_component_utils(adder_agent)
     adder_driver    driver;
